@@ -1,2 +1,3 @@
 # Aplicación-Marcas-de-Autos
-jjj
+
+Es una aplicación que muestra distintos modelos y las respectivas marcas de autos 
